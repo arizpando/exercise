@@ -1,0 +1,2 @@
+hola=int(input("hola= "))
+print("hola")
